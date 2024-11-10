@@ -38,9 +38,17 @@
         "net7.0": {
           "targetAlias": "net7.0",
           "dependencies": {
+            "Amazon.Lambda.APIGatewayEvents": {
+              "target": "Package",
+              "version": "[2.7.1, )"
+            },
             "Amazon.Lambda.Core": {
               "target": "Package",
               "version": "[2.2.0, )"
+            },
+            "Amazon.Lambda.Serialization.Json": {
+              "target": "Package",
+              "version": "[2.0.0, )"
             },
             "Amazon.Lambda.Serialization.SystemTextJson": {
               "target": "Package",
@@ -60,15 +68,7 @@
           "warn": true,
           "downloadDependencies": [
             {
-              "name": "Microsoft.AspNetCore.App.Runtime.linux-x64",
-              "version": "[7.0.0, 7.0.0]"
-            },
-            {
               "name": "Microsoft.NETCore.App.Crossgen2.osx-arm64",
-              "version": "[7.0.0, 7.0.0]"
-            },
-            {
-              "name": "Microsoft.NETCore.App.Runtime.linux-x64",
               "version": "[7.0.0, 7.0.0]"
             }
           ],
@@ -78,11 +78,6 @@
             }
           },
           "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.100/RuntimeIdentifierGraph.json"
-        }
-      },
-      "runtimes": {
-        "linux-x64": {
-          "#import": []
         }
       }
     }
