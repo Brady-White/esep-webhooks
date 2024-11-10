@@ -1,0 +1,17 @@
+/Users/bradywhite/Desktop/CIS4930/EsepWebhook/EsepWebhook/src/EsepWebhook/bin/Release/net7.0/linux-x64/EsepWebhook.deps.json
+/Users/bradywhite/Desktop/CIS4930/EsepWebhook/EsepWebhook/src/EsepWebhook/bin/Release/net7.0/linux-x64/EsepWebhook.runtimeconfig.json
+/Users/bradywhite/Desktop/CIS4930/EsepWebhook/EsepWebhook/src/EsepWebhook/bin/Release/net7.0/linux-x64/EsepWebhook.dll
+/Users/bradywhite/Desktop/CIS4930/EsepWebhook/EsepWebhook/src/EsepWebhook/bin/Release/net7.0/linux-x64/EsepWebhook.pdb
+/Users/bradywhite/Desktop/CIS4930/EsepWebhook/EsepWebhook/src/EsepWebhook/bin/Release/net7.0/linux-x64/Amazon.Lambda.Core.dll
+/Users/bradywhite/Desktop/CIS4930/EsepWebhook/EsepWebhook/src/EsepWebhook/bin/Release/net7.0/linux-x64/Amazon.Lambda.Serialization.SystemTextJson.dll
+/Users/bradywhite/Desktop/CIS4930/EsepWebhook/EsepWebhook/src/EsepWebhook/obj/Release/net7.0/linux-x64/EsepWebhook.csproj.AssemblyReference.cache
+/Users/bradywhite/Desktop/CIS4930/EsepWebhook/EsepWebhook/src/EsepWebhook/obj/Release/net7.0/linux-x64/EsepWebhook.GeneratedMSBuildEditorConfig.editorconfig
+/Users/bradywhite/Desktop/CIS4930/EsepWebhook/EsepWebhook/src/EsepWebhook/obj/Release/net7.0/linux-x64/EsepWebhook.AssemblyInfoInputs.cache
+/Users/bradywhite/Desktop/CIS4930/EsepWebhook/EsepWebhook/src/EsepWebhook/obj/Release/net7.0/linux-x64/EsepWebhook.AssemblyInfo.cs
+/Users/bradywhite/Desktop/CIS4930/EsepWebhook/EsepWebhook/src/EsepWebhook/obj/Release/net7.0/linux-x64/EsepWebhook.csproj.CoreCompileInputs.cache
+/Users/bradywhite/Desktop/CIS4930/EsepWebhook/EsepWebhook/src/EsepWebhook/obj/Release/net7.0/linux-x64/EsepWebhook.csproj.CopyComplete
+/Users/bradywhite/Desktop/CIS4930/EsepWebhook/EsepWebhook/src/EsepWebhook/obj/Release/net7.0/linux-x64/EsepWebhook.dll
+/Users/bradywhite/Desktop/CIS4930/EsepWebhook/EsepWebhook/src/EsepWebhook/obj/Release/net7.0/linux-x64/refint/EsepWebhook.dll
+/Users/bradywhite/Desktop/CIS4930/EsepWebhook/EsepWebhook/src/EsepWebhook/obj/Release/net7.0/linux-x64/EsepWebhook.pdb
+/Users/bradywhite/Desktop/CIS4930/EsepWebhook/EsepWebhook/src/EsepWebhook/obj/Release/net7.0/linux-x64/EsepWebhook.genruntimeconfig.cache
+/Users/bradywhite/Desktop/CIS4930/EsepWebhook/EsepWebhook/src/EsepWebhook/obj/Release/net7.0/linux-x64/ref/EsepWebhook.dll

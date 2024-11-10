@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "XAzyheisA48huZtUF0onxjH6h/uKRESsYf5T2LMGIaufGUFniPjeBv8su62GV9bjojsTk6Q0+sdt4ZDK8zjdwA==",
+  "success": true,
+  "projectFilePath": "/Users/bradywhite/Desktop/CIS4930/EsepWebhook/EsepWebhook/src/EsepWebhook/EsepWebhook.csproj",
+  "expectedPackageFiles": [
+    "/Users/bradywhite/.nuget/packages/amazon.lambda.core/2.2.0/amazon.lambda.core.2.2.0.nupkg.sha512",
+    "/Users/bradywhite/.nuget/packages/amazon.lambda.serialization.systemtextjson/2.4.1/amazon.lambda.serialization.systemtextjson.2.4.1.nupkg.sha512",
+    "/Users/bradywhite/.nuget/packages/microsoft.netcore.app.runtime.linux-x64/7.0.0/microsoft.netcore.app.runtime.linux-x64.7.0.0.nupkg.sha512",
+    "/Users/bradywhite/.nuget/packages/microsoft.aspnetcore.app.runtime.linux-x64/7.0.0/microsoft.aspnetcore.app.runtime.linux-x64.7.0.0.nupkg.sha512",
+    "/Users/bradywhite/.nuget/packages/microsoft.netcore.app.crossgen2.osx-arm64/7.0.0/microsoft.netcore.app.crossgen2.osx-arm64.7.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
